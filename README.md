@@ -5,7 +5,7 @@ It was mainly created to extend my python knowledge.
 
 ## Installation
 
-1. Install the laster version of python
+1. Install the lastest version of python
 2. Create a bot profile through: https://discordapp.com/developers/applications/me
 3. Open launcher.py
 5. Add you bot token in "bot.run("here")"
